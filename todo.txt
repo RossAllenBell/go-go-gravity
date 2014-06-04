@@ -1,0 +1,9 @@
+update code
+parallax scrolling clouds instead of background
+rounded platforms
+platforms are one of a color from the rainbow
+rain drop grows in size
+rain drop changes over spectrum of rainbow colors
+rain drop trail is set of rainbow colors? otherwise matches rain drop changing color
+main screen is title, high scores, tap-to-start/instructions
+maximum difficulty ceiling
